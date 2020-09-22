@@ -6,4 +6,9 @@ The within this repository are intended soley for personal or educational use.
 
 ## ZX81
 
-- [ZX8-CCB Homebrew](zx81/zx8-ccb-homebrew/README.md) - A home-made recreation of the ZX8-CCB
+- [ZX8-CCB Homebrew](/zx81/zx8-ccb-homebrew/README.md) - A home-made recreation of the ZX8-CCB
+
+## ZX Spectrum
+
+- [Cheetah Kempston Joystick Interface](/zxspectrum/cheetah-kempston-joystick/README.md)
+- [KiCad ZX Spectrum Parts Library](/zxspectrum/kicad-zxspectrum-lib/README.md)
