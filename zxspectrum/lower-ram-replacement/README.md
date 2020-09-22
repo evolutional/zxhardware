@@ -17,7 +17,7 @@ This board has a few glitches, likely due to the HC parts and wire lengths.
 | U1 | 1 | 74 series logic inverter | 74HC04 | An LS or HCT part would be better! |
 | U2 | 1 | 74 series octal register | 74HC374 | An LS or HCT part would be better! |
 | U3 | 1 | 256kbit (32kbit x 8) SRAM | IDT71256L | This is 20ns RAM, after testing it might be too fast! |
-| C1, C2, C3 | 3 | Electrolytic Capacitor | 10uF | 104 Ceramic caps should be fine too |
+| C1, C2, C3 | 3 | Ceramic Capacitor | 10uF | |
 
 You'll need a full sized breadboard and various hookup & jumper wires.
 
