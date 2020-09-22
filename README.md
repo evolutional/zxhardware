@@ -10,5 +10,6 @@ The within this repository are intended soley for personal or educational use.
 
 ## ZX Spectrum
 
+- [KiCad ZX Spectrum Parts Library](/zxspectrum/kicad-zxspectrum-lib/README.md) - A library of KiCad parts used in these projects
 - [Cheetah Kempston Joystick Interface](/zxspectrum/cheetah-kempston-joystick/README.md)
-- [KiCad ZX Spectrum Parts Library](/zxspectrum/kicad-zxspectrum-lib/README.md)
+- [Arduino 4116 RAM Tester](/zxspectrum/arduino-4116-ram-tester/README.md)
