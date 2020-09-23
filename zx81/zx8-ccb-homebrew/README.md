@@ -10,6 +10,8 @@ See the [accompanying blog](https://www.evolutional.co.uk/post/zx81-homebrew-zx8
 
 ![Layout](docs/zx8-ccb-perf-v1.png?raw=true)
 
+You will need [DIY Layout Creator](https://github.com/bancika/diy-layout-creator) to view and modify the DIY file provided.
+
 ## Bill of Materials
 
 Here's the parts that are used to build this:

@@ -10,6 +10,8 @@ There is a small blog series on the creation of this [part 1](https://www.evolut
 
 This board has a few glitches, likely due to the HC parts and wire lengths.
 
+You will need [DIY Layout Creator](https://github.com/bancika/diy-layout-creator) to view and modify the DIY file provided.
+
 ### Bill of Materials
 
 | Designator | Qty | Desc | Value | Note |
